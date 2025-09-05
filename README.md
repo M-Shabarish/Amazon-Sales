@@ -21,6 +21,6 @@ Amazon Sales Dashboard (Power BI): Built a dashboard to analyze sales, profit, a
 - **Amazon Store Sales dataset** – cleaned and modeled for insights
 
 ##  Repository Structure
-- `Amazon Prime.pbix` → Power BI dashboard file  
-- `Amazon_Prime_titles.csv` → Dataset used for this project  
+- `Amazon Sales Dashboard.pbix` → Power BI dashboard file  
+- `Amazon_ store sales dataset.csv` → Dataset used for this project  
 - `README.md` → Documentation  
